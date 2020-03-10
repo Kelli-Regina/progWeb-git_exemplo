@@ -6,3 +6,7 @@ Roteiro de aula
 -- Init
 -- Add
 -- Commit
+-- Log
+-- Status
+-- Push
+-- Pull
