@@ -1,5 +1,8 @@
 Roteiro de aula 
+
 - Porque controlar
 - Como controlar?
 - Conseitos
 -- Init
+-- Add
+-- Commit
